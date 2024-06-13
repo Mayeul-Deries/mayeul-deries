@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I'm currently working as an apprentice web developer
+- 🌱 I’m currently learning React and Next
+- 🏫 I will study computer science as an engineer at IMT Mines Alès from September 2024.
+- 📫 How to reach me: mayeul.deries@gmail.com | [LinkedIn](https://www.linkedin.com/in/mayeul-deries/) | [Portfolio](https://mayeul-deries.github.io/portfolio/)
+
 <!--
 **Mayeul-Deries/mayeul-deries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
