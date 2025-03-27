@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working as an apprentice web developer
 - 🌱 I’m currently learning React and Next
-- 🏫 I will study computer science as an engineer at IMT Mines Alès from September 2024.
+- 🏫 I am an engineer student in computer science at IMT Mines Alès.
 - 📫 How to reach me: mayeul.deries@gmail.com
 
 <!--
